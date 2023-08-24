@@ -1,2 +1,3 @@
 # aksinghlu
-This is my First Git Repository
+This is my first Git Repository.
+Author - Abhishek Kumar Singh
